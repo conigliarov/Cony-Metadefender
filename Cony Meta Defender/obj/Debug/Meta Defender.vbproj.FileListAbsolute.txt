@@ -1,0 +1,13 @@
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\bin\Debug\Coniglio Metadefender.exe.config
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\bin\Debug\Coniglio Metadefender.exe
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\bin\Debug\Coniglio Metadefender.pdb
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\bin\Debug\Coniglio Metadefender.xml
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\Meta Defender.vbprojAssemblyReference.cache
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\ConiglioMetadefender.FrmApiKey.resources
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\ConiglioMetadefender.Resources.resources
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\ConiglioMetadefender.FrmMain.resources
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\Meta Defender.vbproj.GenerateResource.cache
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\Meta Defender.vbproj.CoreCompileInputs.cache
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\Coniglio Metadefender.exe
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\Coniglio Metadefender.xml
+C:\Users\koolo\Desktop\Applicazioni\Cony Meta Defender\obj\Debug\Coniglio Metadefender.pdb

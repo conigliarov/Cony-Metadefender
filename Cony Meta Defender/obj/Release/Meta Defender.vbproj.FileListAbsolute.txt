@@ -1,0 +1,26 @@
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\Meta Defender.vbprojAssemblyReference.cache
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\Meta Defender.vbproj.GenerateResource.cache
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\Meta Defender.vbproj.CoreCompileInputs.cache
+C:\Users\koolo\Desktop\Meta Defender\bin\Release\Coniglio Metadefender.exe.config
+C:\Users\koolo\Desktop\Meta Defender\bin\Release\Coniglio Metadefender.exe
+C:\Users\koolo\Desktop\Meta Defender\bin\Release\Coniglio Metadefender.pdb
+C:\Users\koolo\Desktop\Meta Defender\bin\Release\Coniglio Metadefender.xml
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\ConiglioMetadefender.FrmApiKey.resources
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\ConiglioMetadefender.Resources.resources
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\ConiglioMetadefender.FrmMain.resources
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\Coniglio Metadefender.exe
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\Coniglio Metadefender.xml
+C:\Users\koolo\Desktop\Meta Defender\obj\Release\Coniglio Metadefender.pdb
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\bin\Release\Coniglio Metadefender.exe.config
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\bin\Release\Coniglio Metadefender.exe
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\bin\Release\Coniglio Metadefender.pdb
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\bin\Release\Coniglio Metadefender.xml
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\Meta Defender.vbprojAssemblyReference.cache
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\ConiglioMetadefender.FrmApiKey.resources
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\ConiglioMetadefender.Resources.resources
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\ConiglioMetadefender.FrmMain.resources
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\Meta Defender.vbproj.GenerateResource.cache
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\Meta Defender.vbproj.CoreCompileInputs.cache
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\Coniglio Metadefender.exe
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\Coniglio Metadefender.xml
+C:\Users\koolo\Desktop\Applicazioni x\Meta Defender\obj\Release\Coniglio Metadefender.pdb
